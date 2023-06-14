@@ -19,3 +19,5 @@ print("Bienvenido a AeroMax")
 print("Elija una opcion, porfavor")
 print("1. Ver asientos disponibles")
 print("2. Comprar Asiento")
+
+print("hola")
